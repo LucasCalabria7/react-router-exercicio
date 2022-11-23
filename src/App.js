@@ -1,7 +1,9 @@
+import { RouteEx } from "./Routes/Route";
+
 function App() {
   return (
     <>
-      Exercicio de Router
+      <RouteEx />
     </>
   );
 }
